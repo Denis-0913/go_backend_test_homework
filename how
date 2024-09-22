@@ -1,0 +1,36 @@
+[33mcommit 58da9313dde6b04d3d2686eb818691d9703db275[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: «Denis <Bachus-913@yandex.ru>
+Date:   Sun Sep 22 23:41:31 2024 +0300
+
+    Delete new file
+
+[33mcommit 445942a430f16c6ced1a6205a303c789183b7d6d[m
+Author: «Denis <Bachus-913@yandex.ru>
+Date:   Sun Sep 22 23:40:14 2024 +0300
+
+    Add new file
+
+[33mcommit 110cd9d46db49ed9496e787e1b184ee7aff75c98[m
+Merge: a9bfeca 01a2fb2
+Author: «Denis <DegtyarevDN@vseinstrumenti.ru>
+Date:   Sun Sep 22 23:35:38 2024 +0300
+
+    Add new files
+
+[33mcommit a9bfeca7dc1c950ae1e3f78587542bf70dd17de0[m
+Author: gentee <akrivonogov@gmail.com>
+Date:   Fri Oct 27 11:30:41 2023 +0500
+
+    Add new files
+
+[33mcommit 01a2fb2dafcd0030c113200fc1a5c576f05c7c54[m
+Author: gentee <akrivonogov@gmail.com>
+Date:   Fri Oct 27 11:30:41 2023 +0500
+
+    Fix GODEV-590
+
+[33mcommit 90c36e3f40bdb7ed7853387f967c04667020639c[m
+Author: Fe-Nik-S <mikifeynman@gmail.com>
+Date:   Wed Sep 13 17:48:14 2023 +0300
+
+    Initial commit
